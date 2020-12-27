@@ -29,12 +29,6 @@ params:
         label: Contact
         url: /contact/
         style: link
-      - label: lorem-ipsum
-        url: lorem-ipsum
-        style: link
-        icon_class: lorem-ipsum
-        new_window: false
-        type: action
   footer:
     type: footer
     content: ''
