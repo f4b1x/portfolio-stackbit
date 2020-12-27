@@ -1,7 +1,7 @@
 ---
 title: CONTACT ME
 hide_title: false
-excerpt: Name
+excerpt: Contact Form
 sections:
   - title: ''
     section_id: lorem-ipsum
