@@ -6,7 +6,7 @@ sections:
     title: ''
     section_id: ''
     subtitle: ''
-    layout_style: tiles
+    layout_style: mosaic
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
