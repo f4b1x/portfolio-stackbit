@@ -1,5 +1,5 @@
 ---
-title: CONTACT ME
+title: Contact
 hide_title: false
 excerpt: Contact Form
 sections:
