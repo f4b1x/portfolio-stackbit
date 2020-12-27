@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: CONTACT ME
 hide_title: true
 excerpt: lorem-ipsum
 sections: []
