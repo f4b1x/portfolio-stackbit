@@ -3,7 +3,7 @@ title: CONTACT ME
 hide_title: false
 excerpt: Name
 sections:
-  - title: lorem-ipsum
+  - title: ''
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     content: >-
