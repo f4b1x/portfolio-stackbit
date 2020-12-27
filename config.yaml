@@ -6,7 +6,7 @@ params:
   accent_color: yellow
   header:
     type: header
-    title: Exto
+    title: Fabio
     has_nav: true
     nav_links:
       - type: action
