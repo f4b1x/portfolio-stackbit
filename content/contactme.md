@@ -24,13 +24,6 @@ sections:
         options: []
         is_required: true
         type: form_field
-      - input_type: text
-        name: Subject
-        label: Subject *
-        default_value: ''
-        options: []
-        is_required: true
-        type: form_field
       - input_type: textarea
         name: Message
         label: Message *
