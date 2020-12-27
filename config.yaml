@@ -10,10 +10,6 @@ params:
     has_nav: true
     nav_links:
       - type: action
-        label: Home
-        url: /
-        style: link
-      - type: action
         label: Portfolio
         url: /portfolio/
         style: link
