@@ -13,7 +13,7 @@ sections:
       - input_type: text
         name: Name
         label: Name
-        default_value: lorem-ipsum
+        default_value: ''
         options: []
         is_required: false
         type: form_field
