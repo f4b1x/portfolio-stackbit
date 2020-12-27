@@ -14,8 +14,7 @@ sections:
         name: Name
         label: Name *
         default_value: ''
-        options:
-          - lorem-ipsum
+        options: []
         is_required: true
         type: form_field
     submit_label: SUBMIT
