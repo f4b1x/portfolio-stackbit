@@ -34,7 +34,7 @@ sections:
       - input_type: textarea
         name: Message
         label: Message *
-        default_value: lorem-ipsum
+        default_value: ''
         options: []
         is_required: true
         type: form_field
