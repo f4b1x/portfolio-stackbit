@@ -5,7 +5,7 @@ sections:
   - type: section_portfolio
     title: ''
     section_id: ''
-    subtitle: An optional subtitle of the section
+    subtitle: ''
     layout_style: mosaic
     projects_number: 6
     view_all_label: View All
