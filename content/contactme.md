@@ -7,7 +7,7 @@ sections:
     section_id: ''
     subtitle: ''
     content: ''
-    form_id: lorem-ipsum
+    form_id: SUBMIT
     form_action: lorem-ipsum
     form_fields: []
     submit_label: lorem-ipsum
