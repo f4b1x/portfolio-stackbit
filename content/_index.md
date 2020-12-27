@@ -82,10 +82,6 @@ sections:
     subtitle: An optional subtitle of the section
     posts_number: 3
     col_number: three
-    actions:
-      - type: action
-        label: View Blog
-        url: blog
-        style: button
+    actions: []
 layout: advanced
 ---
