@@ -10,7 +10,7 @@ sections:
     form_id: ''
     form_action: ''
     form_fields: []
-    submit_label: lorem-ipsum
+    submit_label: SUBMIT
     type: section_form
 layout: advanced
 ---
