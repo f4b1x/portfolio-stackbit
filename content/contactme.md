@@ -1,5 +1,5 @@
 ---
-title: Contactrrr
+title: Contact
 hide_title: false
 excerpt: Contact Form
 sections:
