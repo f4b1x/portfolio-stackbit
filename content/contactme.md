@@ -10,7 +10,7 @@ sections:
     form_id: ''
     form_action: ''
     form_fields:
-      - input_type: textarea
+      - input_type: text
         name: lorem-ipsum
         label: lorem-ipsum
         default_value: lorem-ipsum
