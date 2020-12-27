@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - type: section_portfolio
     title: ''
-    section_id: latest-projects
+    section_id: ''
     subtitle: An optional subtitle of the section
     layout_style: mosaic
     projects_number: 6
