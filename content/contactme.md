@@ -6,17 +6,7 @@ sections:
   - title: ''
     section_id: ''
     subtitle: ''
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: ''
     form_id: lorem-ipsum
     form_action: lorem-ipsum
     form_fields: []
