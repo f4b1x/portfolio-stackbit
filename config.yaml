@@ -23,7 +23,7 @@ params:
         style: link
       - type: action
         label: Contact
-        url: /contact/
+        url: /contactme/
         style: link
   footer:
     type: footer
